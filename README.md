@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C for problem solving.<br>👯 I’m looking to collaborate on cyber security projects.<br>🤝 I’m looking for help with python for cyber security.<br>🌱 I’m currently learning python<br>💬 Ask me about bugs.<br>.
+🔭 I’m currently working on C for problem solving.<br>👯 I’m looking to collaborate on cyber security projects.<br>🤝 I’m looking for help with python for cyber security.<br>🌱 I’m currently learning python<br>💬 Ask me about bugs.<br>
 
 
 ## 🌐 Socials:
